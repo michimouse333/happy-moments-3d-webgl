@@ -1,0 +1,34 @@
+# General
+.DS_Store
+Thumbs.db
+tmp/
+*.tmp
+*.log
+logs
+node_modules
+/coverage
+
+# Editor-specific files
+.idea/
+.vscode/
+*.suo
+*.swp
+*.njsproj
+*.sln
+*.user
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build artifacts
+dist/
+build/
+.vite/
+
+# Packages
+yarn.lock
+
+# ThreeJS
+node_modules/**/*basis
