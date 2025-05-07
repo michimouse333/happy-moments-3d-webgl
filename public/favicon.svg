@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>Happy Moments Companion Favicon</title>
+  <!--
+    Created: 2024-07-01
+    Author: your girlfriend's name
+    License: MIT
+  -->
+  <path d="M16 28 L7 18 A10 10 0 1 1 25 18 Z" fill="#FFDAB9">
+    <animateTransform attributeName="transform" type="scale" values="1.0;1.05;1.0" dur="1.5s" repeatCount="indefinite" additive="replace"/>
+  </path>
+</svg>
