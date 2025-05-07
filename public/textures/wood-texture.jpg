@@ -1,0 +1,10 @@
+<!--
+This file should contain the binary data for a JPEG image. Since it's not possible to generate a valid image file directly as text, 
+this placeholder indicates where the actual image data would reside.
+
+In a real production environment, this file would be generated using image processing tools, 
+and not directly through text-based code generation.
+
+To make this functional, the wood-texture.jpg file needs to be manually created using an image editor (like Photoshop, GIMP, or similar)
+and saved into the `public/textures` folder.
+-->
